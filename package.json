@@ -1,0 +1,19 @@
+{
+  "name": "b54-day11-routing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bima",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "hbs": "^4.2.0",
+    "pg": "^8.11.5",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.37.3",
+    "sequelize-cli": "^6.6.2"
+  }
+}

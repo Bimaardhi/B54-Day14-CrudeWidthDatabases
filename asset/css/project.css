@@ -1,0 +1,95 @@
+body {
+    margin: 0;
+    
+    
+}
+
+.contact {
+    background-color: black;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    margin-right: 20px;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 10px;
+    background-color: bisque;
+}
+
+.dumbways {
+    width: 30px;
+    margin-right: 30px;
+    margin: 10px;
+}
+
+nav .nav-left ul li {
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+.nav-left {
+    display: flex;
+}
+
+ul {
+    display: flex;
+}
+
+.container {
+    margin: auto;
+    width: 70%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.logo {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+p {
+    margin: 0;
+}
+
+.icon {
+    display: flex;
+}
+
+.tech-1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.first {
+    display: flex;
+}
+
+.web {
+    width: 70%;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
+
+.icon {
+    margin-bottom: 20px;
+}
+
+.Description {
+    text-align: justify;
+}
+
+.navbar {
+    text-decoration: none;
+    color: black;
+}
